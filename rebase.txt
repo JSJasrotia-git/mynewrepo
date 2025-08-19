@@ -1,2 +1,2 @@
 This file is added for re-basing.
-All the 3 branches are now same, hence advancing another one and main
+All the 3 branches are not same, hence advancing another one and main
